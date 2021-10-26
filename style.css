@@ -1,0 +1,16 @@
+:root{
+    --grey: #fafafa;
+    --white: #ffffff;
+}
+
+.bg-grey{ background-color: var(--grey);}
+.bg-light{ background-color: var(--white) !important;} 
+.navbar {
+    min-height: 6rem;
+}
+
+
+/* 1 em es la cantidad del fontsize del body y un rem no es siempre relativo al body sino que es relativo al elemento que estas editando */
+i.lead {
+font-size: 2.8rem;  
+}
