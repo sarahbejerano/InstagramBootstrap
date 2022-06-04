@@ -53,11 +53,10 @@ text-align: justify;
 
 }
 .iconospost {
-     display: flex;
-     justify-content:space-between;  
-     align-items: baseline;
-     margin-bottom: 20px;
- 
+    display: flex;
+    justify-content:space-between;  
+    align-items: baseline;
+    margin-bottom: 20px;
 }
 
 
